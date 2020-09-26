@@ -2,9 +2,11 @@
 
 int main()
 {
-	printf("Hello, world1!");
-	printf("Hello, world2!");
-	printf("Hello, world3!");
+
+	printf("Hello, world 1!");
+	printf("Hello, world 2!?");
+	printf("Hello, world 3?!");
 
 	return 0;
+
 }
